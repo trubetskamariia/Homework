@@ -15,3 +15,9 @@
 
 # 4. Un-ignore this file itself so it can be committed
 !/.gitignore
+/Task 3/Program.cs
+/Task 3/Task 3.csproj
+/Task 3/Program.cs
+/Task 2.2/Task 2.2.csproj
+/Task 4/task4.1.cs
+/Task 5/MainPage.xaml.cs
